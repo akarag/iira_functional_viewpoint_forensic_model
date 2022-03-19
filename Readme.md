@@ -26,9 +26,7 @@ Below you can find the referenced papers used as well as a description of the ta
 
 
 [1]	E. Cornelius and M. Fabro, “Recommended Practice: Creating CyberForensics Plans for Control Systems,” Jan. 2008.<br />
-[2]	A. J. Marcella, “Operational technology, industrial control systems.<br />
-and cyber forensics,” in, 1st ed., ser. 5. Boca Rota, USA: CRC PRess.<br />
-Jul. 2021, vol. 4, ch. 6, pp. 211–267."<br />
+[2]	A. J. Marcella, “Operational technology, industrial control systems and cyber forensics,” in, 1st ed., ser. 5. Boca Rota, USA: CRC PRess. Jul. 2021, vol. 4, ch. 6, pp. 211–267."<br />
 [3]	Bundesamt für Sicherheit in der Informationstechnik (BSI), “LeitfadenIT-Forensik,” Tech. Rep., 2011.<br />
 [4]	Asmar, Rima & Beztchi, Saeed & Smith, Jared & Lyles, Bryan & Prowell, Stacy. (2018). Tools, Techniques, and Methodologies: A Survey of Digital Forensics for SCADA Systems. <br />
 [5]	Basnight, Z. & Butts, J. & Lopez, J. & Dube, T.. (2013). Analysis of programmable logic controller firmware for threat assessment and forensic investigation. 8th International Conference on Information Warfare and Security, ICIW 2013. 9-15. <br />
