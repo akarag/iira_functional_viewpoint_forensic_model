@@ -1,7 +1,9 @@
 #### Forensic model based on the Industrial Internet Reference Architecture
 
 #### Description
-The pdf features the functional viewpoint of the Manuscript "" for the ETFA conference. It includes the activities and its task as well.
+The [pdf](https://github.com/akarag/iira_functional_viewpoint_forensic_model/blob/main/forensic_model_functions.pdf "Forensic Model") features a forensic model in compliance with the Industrial Internet Reference Architecture.
+It includes the activites, task and its function together with their inputs and outputs.<br />
+
 Below you can find the referenced papers used as well as a description of the table fields.
 
 
